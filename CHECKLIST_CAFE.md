@@ -2,8 +2,8 @@
 
 ## Checklist
 
-- [ ] Pneu
-- [ ] Ao Quadrado
+- [x] Pneu
+- [x] Ao Quadrado
 - [ ] Notas na Inglaterra
 - [x] Hello World
 - [x] Eco
