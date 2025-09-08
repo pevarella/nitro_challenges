@@ -4,7 +4,7 @@
 
 - [x] Pneu
 - [x] Ao Quadrado
-- [ ] Notas na Inglaterra
+- [x] Notas na Inglaterra
 - [x] Hello World
 - [x] Eco
 - [x] Soma Simples
