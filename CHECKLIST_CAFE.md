@@ -22,4 +22,4 @@
 - [ ] Conditionals
 - [ ] List Replication
 - [ ] The Greatest
-- [ ] Mesa do Prejuízo
+- [x] Mesa do Prejuízo
