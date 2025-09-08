@@ -8,7 +8,7 @@
 - [x] Hello World
 - [x] Eco
 - [x] Soma Simples
-- [ ] Pares de 1 a 100
+- [x] Pares de 1 a 100
 - [ ] Qual o mês?
 - [ ] Múltiplo de 7
 - [ ] Ingressos Promocionais
